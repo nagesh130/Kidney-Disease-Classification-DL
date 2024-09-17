@@ -43,3 +43,84 @@ x======]
 [2024-09-17 13:07:21,282: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
 
 x==========x]
+[2024-09-17 14:13:34,069: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:13:34,069: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:13:34,069: INFO: common: created directory at: artifacts]
+[2024-09-17 14:13:34,069: INFO: common: created directory at: artifacts\training]
+[2024-09-17 14:13:34,399: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-17 14:15:19,498: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:15:19,501: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:15:19,503: INFO: common: created directory at: artifacts]
+[2024-09-17 14:15:19,505: INFO: common: created directory at: artifacts\training]
+[2024-09-17 14:15:19,723: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-17 14:17:08,886: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:17:08,888: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:17:08,889: INFO: common: created directory at: artifacts]
+[2024-09-17 14:17:08,890: INFO: common: created directory at: artifacts\training]
+[2024-09-17 14:17:09,149: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-17 14:34:14,301: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:34:14,302: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:34:14,302: INFO: common: created directory at: artifacts]
+[2024-09-17 14:34:14,302: INFO: common: created directory at: artifacts\training]
+[2024-09-17 14:34:14,630: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-17 14:36:53,293: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:36:53,294: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:36:53,294: INFO: common: created directory at: artifacts]
+[2024-09-17 14:36:53,294: INFO: common: created directory at: artifacts\training]
+[2024-09-17 14:36:53,463: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-17 14:39:15,063: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:39:15,066: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:39:15,067: INFO: common: created directory at: artifacts]
+[2024-09-17 14:39:15,069: INFO: common: created directory at: artifacts\training]
+[2024-09-17 14:39:15,227: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-17 14:41:43,243: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:41:43,246: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:41:43,248: INFO: common: created directory at: artifacts]
+[2024-09-17 14:41:43,249: INFO: common: created directory at: artifacts\training]
+[2024-09-17 14:41:43,517: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-17 14:41:58,017: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:41:58,021: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:41:58,022: INFO: common: created directory at: artifacts]
+[2024-09-17 14:41:58,024: INFO: common: created directory at: artifacts\training]
+[2024-09-17 14:41:58,205: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-17 14:51:17,714: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<]
+[2024-09-17 14:51:17,717: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:51:17,718: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:51:17,719: INFO: common: created directory at: artifacts]
+[2024-09-17 14:51:17,719: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-09-17 14:51:17,720: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-17 14:51:24,626: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2024-09-17 14:51:25,292: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x======]
+[2024-09-17 14:51:25,292: INFO: main: *******************]
+[2024-09-17 14:51:25,292: INFO: main: >>>>>> stage Prepare base model started <<<<<<]
+[2024-09-17 14:51:25,293: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:51:25,295: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:51:25,295: INFO: common: created directory at: artifacts]
+[2024-09-17 14:51:25,295: INFO: common: created directory at: artifacts/prepare_base_model]
+[2024-09-17 14:51:25,684: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-09-17 14:51:25,804: WARNING: saving_api: You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. ]
+[2024-09-17 14:51:25,889: INFO: main: >>>>>> stage Prepare base model completed <<<<<<
+
+x==========x]
+[2024-09-17 14:51:25,889: INFO: main: *******************]
+[2024-09-17 14:51:25,890: INFO: main: >>>>>> stage Training started <<<<<<]
+[2024-09-17 14:51:25,891: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-09-17 14:51:25,892: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-09-17 14:51:25,892: INFO: common: created directory at: artifacts]
+[2024-09-17 14:51:25,892: INFO: common: created directory at: artifacts\training]
+[2024-09-17 14:51:26,051: WARNING: saving_utils: Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.]
+[2024-09-17 14:51:26,927: ERROR: main: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, path=dense/kernel>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.]
+Traceback (most recent call last):
+  File "C:\Users\nages\Downloads\Python + SQL\Kidney-Disease-Classification-DL\main.py", line 38, in <module>
+    model_trainer.main()
+  File "C:\Users\nages\Downloads\Python + SQL\Kidney-Disease-Classification-DL\src\cnnClassifier\pipeline\stage_03_model_training.py", line 21, in main
+    training.train()
+  File "C:\Users\nages\Downloads\Python + SQL\Kidney-Disease-Classification-DL\src\cnnClassifier\components\model_training.py", line 76, in train
+    self.model.fit(
+  File "C:\Users\nages\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\utils\traceback_utils.py", line 122, in error_handler
+    raise e.with_traceback(filtered_tb) from None
+  File "C:\Users\nages\AppData\Local\Programs\Python\Python312\Lib\site-packages\keras\src\optimizers\base_optimizer.py", line 237, in _check_variables_are_known
+    raise ValueError(
+ValueError: Unknown variable: <KerasVariable shape=(25088, 2), dtype=float32, path=dense/kernel>. This optimizer can only be called for the variables it was originally built with. When working with a new set of variables, you should recreate a new optimizer instance.
